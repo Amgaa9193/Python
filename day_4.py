@@ -27,3 +27,4 @@ names_string = input("Give me everybody's name, seperated by a comma.")
 names = names_string.split(",")
 
 # Iterate over the names arr
+# test test
